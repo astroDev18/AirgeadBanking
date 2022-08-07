@@ -1,0 +1,29 @@
+START
+
+Open Program Menu
+
+Ask user option they want to use
+
+If option is 1 - Input Data:
+    Ask user for Initial Investment Amount
+    Ask user for monthly deposit
+    Ask user for annual interest rate
+    Ask user for number of years
+
+Next handle all calculations required
+Calculate future value of investment
+
+Loop back to start if user wants to continue
+
+If user selects option 2:
+    Output investment report without monthly deposit
+    Loop back to start
+
+If user selects option 3:
+    Output investment report with monthly deposit
+    Loop back to start
+If user selects option 4:
+    End application
+END
+
+
